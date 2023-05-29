@@ -2,12 +2,13 @@ import EventCalendar from "./eventCalendar";
 import CreatePost from "./createPost";
 import CraigslistContent from "./craigslistContent";
 import MessageBoard from "./messageBoard";
+import logo from "./cl_logo.png";
 
 
 function Index() {
     return (
       <div className="indexBody">
-        <img className="bigLogo" src="https://assets.stickpng.com/images/62017abff2f75f000484e72a.png" alt="Craigslist"/>
+        <img className="bigLogo" src={logo} alt="Craigslist"/>
         <br/> <br/>
 
         <div className="searchBar">
