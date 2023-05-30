@@ -307,6 +307,62 @@ function CraigslistContent() {
                     "url" : "https://forums.craigslist.org/?areaID=3&forumID=96"
                 }
             ]
+        },
+        {
+            "type" : "main",
+            "id" : "37",
+            "name" : "Gigs",
+            "subs" : [
+                {
+                    "type" : "mainsub",
+                    "id" : "37.5",
+                    "name" : "See all gig posts",
+                    "url" : "https://newyork.craigslist.org/search/ggg"
+                },
+                {
+                    "type" : "sub",
+                    "id" : "38",
+                    "name" : "Computer",
+                    "url" : "https://newyork.craigslist.org/search/cpg"
+                },
+                {
+                    "type" : "sub",
+                    "id" : "39",
+                    "name" : "Creative",
+                    "url" : "https://newyork.craigslist.org/search/crg"
+                },
+                {
+                    "type" : "sub",
+                    "id" : "40",
+                    "name" : "Crew",
+                    "url" : "https://newyork.craigslist.org/search/cwg"
+                },
+                {
+                    "type" : "sub",
+                    "id" : "41",
+                    "name" : "Event",
+                    "url" : "https://newyork.craigslist.org/search/evg"
+                },
+                {
+                    "type" : "sub",
+                    "id" : "42",
+                    "name" : "Talent",
+                    "url" : "https://newyork.craigslist.org/search/tlg"
+                }
+            ]
+        },
+        {
+            "type" : "main",
+            "id" : "43",
+            "name" : "Resumes",
+            "subs" : [
+                {
+                    "type" : "mainsub",
+                    "id" : "43.5",
+                    "name" : "See posted resumes",
+                    "url" : "https://newyork.craigslist.org/search/rrr"
+                }
+            ]
         }
     ];
 
