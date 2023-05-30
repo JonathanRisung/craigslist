@@ -23,7 +23,10 @@ function CreatePost() {
                 className="modals"
             >
                 <Modal.Header>
-                    <Modal.Title><h2>Create Post</h2></Modal.Title>
+                    <Modal.Title>
+                        <h2>Create Post</h2>
+                        <hr />
+                    </Modal.Title>
                 </Modal.Header>
                 <Modal.Body>
                     <form>

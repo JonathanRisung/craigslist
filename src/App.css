@@ -84,18 +84,24 @@
 .modals {
   width: 70%;
   margin: 15%;
-  position: absolute;
+  position: fixed;
   z-index: 100000;
   background-color: #551A8B;
   color: whitesmoke;
-  top: 17%;
   height: fit-content;
   border-radius: 10px;
+  border: #8666a4 solid 5px;
+  margin-top: 5%;
 }
 .modals form,.modals h2,.modalBtns {
   width:fit-content;
   margin: auto;
   margin-top: 5%;
+}
+.modals hr {
+  width: 70%;
+  margin: auto;
+  margin-top: 2vh;
 }
 .modalBtns {
   position: absolute;
