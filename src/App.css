@@ -318,4 +318,20 @@
     color: #551A8B;
   }
 
+  .searchBar {
+    width: 40%;
+    height: 10vh;
+  }
+  .searchBar div {
+    height: fit-content;
+    margin: auto;
+    margin-left: 2vh;
+    margin-right: 2vh;
+  }
+  .searchBar input {
+    margin-left: 0;
+    width: 100%;
+    font-size: large;
+  }
+
 }
